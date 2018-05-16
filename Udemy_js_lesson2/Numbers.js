@@ -3,8 +3,8 @@
  */
 
 
-let  studentScore =  18;
-let maxScore = 20;
+let  studentScore =  41;
+let maxScore = 100;
 let  percent  =0;
 
 
