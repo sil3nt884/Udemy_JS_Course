@@ -9,6 +9,6 @@ let  percent  =0;
 
 
 
-percent = (18/20) *100;
+percent = (studentScore/maxScore) *100;
 
 console.log(percent);
